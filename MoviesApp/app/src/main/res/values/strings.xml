@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MoviesApp</string>
+
+    <!-- Navigation & Screen Titles -->
+    <string name="movie_library">Filmes</string>
+    <string name="movie_details">Detalhes do Filme</string>
+    <string name="login">MoviesApp</string>
+
+    <!-- Actions & Buttons -->
+    <string name="add">Adicionar</string>
+    <string name="add_movie">Adicionar Filme</string>
+    <string name="add_person">Adicionar Pessoa</string>
+    <string name="save">Guardar</string>
+    <string name="add_actor">+ Adicionar Ator</string>
+    <string name="add_cast_member">Adicionar Membro do Elenco</string>
+    <string name="character_name">Nome da Personagem</string>
+    <string name="select_person">Selecionar Pessoa</string>
+    <string name="main_picture">Imagem Principal</string>
+    <string name="add_image">Imagens</string>
+    <string name="remove_image">Remover</string>
+    <string name="no_director_selected">Por favor, selecione um diretor</string>
+    <string name="no_genres_selected">Por favor, selecione pelo menos um género</string>
+    <string name="add_rating">Adicionar classificação</string>
+    <string name="login_button">Iniciar sessão</string>
+    <string name="logout">Terminar sessão</string>
+
+    <!-- Form Fields (Hints) -->
+    <string name="title">Título</string>
+    <string name="description_format">Descrição</string>
+    <string name="release_date">Data de Lançamento</string>
+    <string name="person">Diretor</string>
+    <string name="person_name">Nome</string>
+    <string name="date_of_birth">Data de Nascimento</string>
+    <string name="comment">Comentário</string>
+    <string name="username">Utilizador</string>
+    <string name="password">Palavra-passe</string>
+
+    <!-- Labels (Display) -->
+    <string name="year_label">Data de lançamento</string>
+    <string name="description_label">Descrição</string>
+    <string name="genre_label">Géneros</string>
+    <string name="director_label">Realizador</string>
+    <string name="cast_label">Elenco</string>
+    <string name="comment_label">Comentários</string>
+    <string name="person_photo">Foto da pessoa</string>
+    <string name="movie_picture">Foto do filme</string>
+
+    <!-- Format Strings -->
+    <string name="average_rating">Avaliação média: %.1f</string>
+
+    <!-- Search -->
+    <string name="search_my_movies">Pesquisar</string>
+
+    <!-- Sort Options -->
+    <string name="sort">Ordenar</string>
+    <string name="sort_default">Adicionados recentemente</string>
+    <string name="sort_az">A–Z</string>
+    <string name="sort_rating">Melhor rating</string>
+
+    <!-- Image Selection -->
+    <string name="gallery">Escolher da Galeria</string>
+    <string name="take_photo">Tirar Foto</string>
+
+    <!-- Messages & Feedback -->
+    <string name="movie_saved">Filme guardado!</string>
+    <string name="person_saved">Pessoa guardada!</string>
+    <string name="invalid_date_format">Formato de data inválido. Use YYYY-MM-DD</string>
+    <string name="no_description">Sem descrição disponível.</string>
+    <string name="no_ratings">Sem avaliações</string>
+    <string name="no_reviews">Sem comentários</string>
+    <string name="fill_all_fields">Preencha todos os campos</string>
+    <string name="error_generic">Ocorreu um erro. Tente novamente.</string>
+    <string name="error_unauthorized">Não autorizado. Por favor, faça login novamente.</string>
+    <string name="error_forbidden">Acesso negado. Apenas administradores podem realizar esta ação.</string>
+    <string name="login_error">Erro ao fazer login</string>
+    <string name="login_success">Login bem-sucedido</string>
+</resources>

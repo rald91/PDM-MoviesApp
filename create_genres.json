@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Action",
+      "description": "Movies characterized by fast-paced sequences, physical conflicts, and intense scenes."
+    },
+    {
+      "name": "Adventure",
+      "description": "Stories focused on journeys, exploration, and challenges in unfamiliar environments."
+    },
+    {
+      "name": "Comedy",
+      "description": "Films designed to entertain and amuse through humor and light-hearted situations."
+    },
+    {
+      "name": "Drama",
+      "description": "Narratives centered on emotional conflicts, character development, and human relationships."
+    },
+    {
+      "name": "Science Fiction",
+      "description": "Explores speculative scientific concepts such as advanced technology, space travel, or time travel."
+    },
+    {
+      "name": "Fantasy",
+      "description": "Films set in imaginary worlds featuring magical or supernatural elements."
+    },
+    {
+      "name": "Horror",
+      "description": "Created to evoke fear, tension, or psychological unease in the audience."
+    },
+    {
+      "name": "Mystery",
+      "description": "Stories revolving around solving crimes, puzzles, or unexplained events."
+    },
+    {
+      "name": "Romance",
+      "description": "Films that explore romantic relationships and emotional connections."
+    },
+    {
+      "name": "Thriller",
+      "description": "Intense and suspenseful narratives often featuring unexpected twists."
+    },
+    {
+      "name": "Animation",
+      "description": "Movies produced using animation techniques, both traditional and digital."
+    },
+    {
+      "name": "Documentary",
+      "description": "Films based on real events intended to inform, educate, or portray reality."
+    }
+  ]
+  
